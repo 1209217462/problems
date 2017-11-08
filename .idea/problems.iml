@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file:///production/problems" />
+    <output-test url="file:///test/problems" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/5_string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_linkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_stack_queue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_binaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_dynamic programming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_big data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_bit operation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8_array and matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9_else problems" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
